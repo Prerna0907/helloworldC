@@ -1,2 +1,4 @@
-# helloworldC
-Hello World Program in C Language.
+# hello-world
+Hello World
+
+HAkuna Matata
